@@ -114,5 +114,4 @@ function calculateWinner(squares) {
   return null;
 }
 
-
 // Esto es un cambio en el código
